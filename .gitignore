@@ -1,0 +1,5 @@
+# Ignorar caché e historial local de Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+.trash/
